@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa-basic4", "Programa-basic4\Programa-basic4.csproj", "{790EB724-4B8A-4DD1-8ACE-CD25AB1AA238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790EB724-4B8A-4DD1-8ACE-CD25AB1AA238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790EB724-4B8A-4DD1-8ACE-CD25AB1AA238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790EB724-4B8A-4DD1-8ACE-CD25AB1AA238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790EB724-4B8A-4DD1-8ACE-CD25AB1AA238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
